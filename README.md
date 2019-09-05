@@ -11,6 +11,6 @@ Refatoramos o código do `Floki.HTML.Document` para retornar o `HTMLNode` recém
 Também refatoramos um pouco do `Floki.HTML.TreeConstruction` para usar funções ao invés de
 pattern matching para mudar o "modo" do parser.
 
-Link da gravação: [pendente]
+Link da gravação: [https://youtu.be/ymlUSOkP1bI](https://youtu.be/ymlUSOkP1bI)
 
 [channel]: https://twitch.tv/philipsampaio
