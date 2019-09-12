@@ -5,7 +5,18 @@ que acontece todas às quartas, em [https://twitch.tv/philipsampaio][channel].
 
 ## Episódios
 
+### 22 - O dia em que recebi um PR do criador da linguagem - programando em Elixir
+
+Data: 11 de Setembro de 2019
+
+Revisamos o PR que o [José Valim](https://github.com/josevalim) enviou para a lib Floki.
+Também lançamos uma nova versão da lib ao final do processo.
+
+Link da gravação: [https://youtu.be/eRbYi04kMAI](https://youtu.be/eRbYi04kMAI)
+
 ### 21 - Um pouco mais do parser de HTML - programando em Elixir
+
+Data: 04 de Setembro de 2019
 
 Refatoramos o código do `Floki.HTML.Document` para retornar o `HTMLNode` recém inserido.
 Também refatoramos um pouco do `Floki.HTML.TreeConstruction` para usar funções ao invés de
