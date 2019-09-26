@@ -5,6 +5,15 @@ que acontece todas às quartas, em [https://twitch.tv/philipsampaio][channel].
 
 ## Episódios
 
+### 23 - Continuando no parser de HTML - programando em Elixir
+
+Data: 25 de Setembro de 2019
+
+Implementamos o restante que faltava do estado "before_html" na construção
+da árvore.
+
+Link da gravação: [https://youtu.be/Wqh3j00JReI](https://youtu.be/Wqh3j00JReI)
+
 ### 22 - O dia em que recebi um PR do criador da linguagem - programando em Elixir
 
 Data: 11 de Setembro de 2019
